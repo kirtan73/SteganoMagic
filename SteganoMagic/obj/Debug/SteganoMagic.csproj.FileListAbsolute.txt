@@ -1,0 +1,20 @@
+C:\Users\Kirtan\Documents\Visual Studio 2013\Projects\SteganoMagic\SteganoMagic\bin\Debug\SteganoMagic.exe.config
+C:\Users\Kirtan\Documents\Visual Studio 2013\Projects\SteganoMagic\SteganoMagic\bin\Debug\SteganoMagic.exe
+C:\Users\Kirtan\Documents\Visual Studio 2013\Projects\SteganoMagic\SteganoMagic\bin\Debug\SteganoMagic.pdb
+C:\Users\Kirtan\Documents\Visual Studio 2013\Projects\SteganoMagic\SteganoMagic\obj\Debug\SteganoMagic.csprojResolveAssemblyReference.cache
+C:\Users\Kirtan\Documents\Visual Studio 2013\Projects\SteganoMagic\SteganoMagic\obj\Debug\SteganoMagic.Form1.resources
+C:\Users\Kirtan\Documents\Visual Studio 2013\Projects\SteganoMagic\SteganoMagic\obj\Debug\SteganoMagic.Properties.Resources.resources
+C:\Users\Kirtan\Documents\Visual Studio 2013\Projects\SteganoMagic\SteganoMagic\obj\Debug\SteganoMagic.csproj.GenerateResource.Cache
+C:\Users\Kirtan\Documents\Visual Studio 2013\Projects\SteganoMagic\SteganoMagic\obj\Debug\SteganoMagic.exe
+C:\Users\Kirtan\Documents\Visual Studio 2013\Projects\SteganoMagic\SteganoMagic\obj\Debug\SteganoMagic.pdb
+C:\Users\Kirtan\Documents\Visual Studio 2013\Projects\SteganoMagic\SteganoMagic\obj\Debug\SteganoMagic.csproj.ResolveComReference.cache
+C:\Users\rushitjasani\Desktop\SteganoMagic\SteganoMagic\bin\Debug\SteganoMagic.exe.config
+C:\Users\rushitjasani\Desktop\SteganoMagic\SteganoMagic\obj\Debug\SteganoMagic.csproj.ResolveComReference.cache
+C:\Users\rushitjasani\Desktop\SteganoMagic\SteganoMagic\obj\Debug\SteganoMagic.exe
+C:\Users\rushitjasani\Desktop\SteganoMagic\SteganoMagic\obj\Debug\SteganoMagic.pdb
+C:\Users\rushitjasani\Desktop\SteganoMagic\SteganoMagic\bin\Debug\SteganoMagic.exe
+C:\Users\rushitjasani\Desktop\SteganoMagic\SteganoMagic\bin\Debug\SteganoMagic.pdb
+C:\Users\rushitjasani\Desktop\SteganoMagic\SteganoMagic\obj\Debug\SteganoMagic.csprojResolveAssemblyReference.cache
+C:\Users\rushitjasani\Desktop\SteganoMagic\SteganoMagic\obj\Debug\SteganoMagic.Form1.resources
+C:\Users\rushitjasani\Desktop\SteganoMagic\SteganoMagic\obj\Debug\SteganoMagic.Properties.Resources.resources
+C:\Users\rushitjasani\Desktop\SteganoMagic\SteganoMagic\obj\Debug\SteganoMagic.csproj.GenerateResource.Cache
